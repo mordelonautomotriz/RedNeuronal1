@@ -57,8 +57,7 @@ public class RedNeuronal1 {
         System.out.println("\tComo Utilizaria usted la Red Neuronal como Mejoramiento del Proyecto Propuesto?\n");
         String mejoramientoredneuronal=objeto.nextLine();
         
-        System.out.println("\tEn que consistio el Entrenamiento utilizando la Red Neuronal, e indique el Algoritmo utilizado\n");
-        String algoritmoredneuronal=objeto.nextLine();
+        
         
         
     }
